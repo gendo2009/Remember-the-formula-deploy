@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Remember-the-formula-deploy/static/css/main.16728191.css",
-    "main.js": "/Remember-the-formula-deploy/static/js/main.c6d62a74.js",
+    "main.js": "/Remember-the-formula-deploy/static/js/main.fa1e12ad.js",
     "static/js/787.28cb0dcd.chunk.js": "/Remember-the-formula-deploy/static/js/787.28cb0dcd.chunk.js",
     "static/media/mont_heavydemo.ttf": "/Remember-the-formula-deploy/static/media/mont_heavydemo.daa26bfb63618aad17f7.ttf",
     "static/media/whiteBricks.jpg": "/Remember-the-formula-deploy/static/media/whiteBricks.83a895ab9e67623a81e8.jpg",
@@ -12,11 +12,11 @@
     "static/media/backIcon.svg": "/Remember-the-formula-deploy/static/media/backIcon.7c8eca84f55f61ba2391e9ac2b7b1ef4.svg",
     "index.html": "/Remember-the-formula-deploy/index.html",
     "main.16728191.css.map": "/Remember-the-formula-deploy/static/css/main.16728191.css.map",
-    "main.c6d62a74.js.map": "/Remember-the-formula-deploy/static/js/main.c6d62a74.js.map",
+    "main.fa1e12ad.js.map": "/Remember-the-formula-deploy/static/js/main.fa1e12ad.js.map",
     "787.28cb0dcd.chunk.js.map": "/Remember-the-formula-deploy/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.16728191.css",
-    "static/js/main.c6d62a74.js"
+    "static/js/main.fa1e12ad.js"
   ]
 }
